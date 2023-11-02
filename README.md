@@ -5,4 +5,4 @@
 
 大文件无法上传，已经整理好放百度网盘：
 链接：https://pan.baidu.com/s/1K9raEiHcVAuprJ7IywbOOw?pwd=yjwt 
-提取码：yjwt（包含文件：两个数据集、改过的yolov5、2022年老代码）
+提取码：yjwt（包含文件：机械设计代码、两个数据集、改过的yolov5、2022年老代码）
